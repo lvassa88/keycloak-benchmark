@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <aws.java.sdk.version>2.20.43</aws.java.sdk.version>
         <fabric8.version>6.13.0</fabric8.version>
-        <jsonpath.version>2.9.0</jsonpath.version>
+        <jsonpath.version>2.10.0</jsonpath.version>
     </properties>
 
     <dependencies>
